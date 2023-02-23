@@ -1,2 +1,2 @@
 # driver-template
-an examplle driver for hypothetical device with a single control register
+an example driver for hypothetical device with a single control register
